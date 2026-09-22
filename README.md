@@ -134,23 +134,22 @@
 ## 📝 Конспекты
 
 ### 🔢 Дискретная математика
-- [Дискра_08_09_26.pdf](https://github.com/USER/REPO/raw/main/Конспекты/Дискра_08_09_26.pdf) — 08.09.2026
-- [Дискра_15_09_26.pdf](https://github.com/USER/REPO/raw/main/Конспекты/Дискра_15_09_26.pdf) — 15.09.2026
+- [Дискра_08_09_26.pdf](https://github.com/gl0s3/M3103/raw/main/Конспекты/ДМ/8_09_26.pdf) — 08.09.2026
+- [Дискра_15_09_26.pdf](https://github.com/gl0s3/M3103/raw/main/Конспекты/ДМ/15_09_26.pdf) — 15.09.2026
 
 ### 📐 Математический анализ
-- [Матан_04_09_26.pdf](https://github.com/USER/REPO/raw/main/Конспекты/Матан_04_09_26.pdf) — 04.09.2026
-- [Матан_11_09_26.pdf](https://github.com/USER/REPO/raw/main/Конспекты/Матан_11_09_26.pdf) — 11.09.2026
-- [Матан_18_09_26.pdf](https://github.com/USER/REPO/raw/main/Конспекты/Матан_18_09_26.pdf) — 18.09.2026
+- [Матан_04_09_26.pdf](https://github.com/gl0s3/M3103/raw/main/Конспекты/Матан/4_09_26.pdf) — 04.09.2026
+- [Матан_11_09_26.pdf](https://github.com/gl0s3/M3103/raw/main/Конспекты/Матан/11_09_26.pdf) — 11.09.2026
+- [Матан_18_09_26.pdf](https://github.com/gl0s3/M3103/raw/main/Конспекты/Матан/18_09_26.pdf) — 18.09.2026
 
 ### 📐 Линейная алгебра
-- [Линал_8_09_26.pdf](https://github.com/USER/REPO/raw/main/Конспекты/Линал_8_09_26.pdf) — 08.09.2026
-- [Линал_15_09_26.pdf](https://github.com/USER/REPO/raw/main/Конспекты/Линал_15_09_26.pdf) — 15.09.2026
-- [Линал_22_09_26.pdf](https://github.com/USER/REPO/raw/main/Конспекты/Линал_22_09_26.pdf) — 22.09.2026
+- [Линал_8_09_26.pdf](https://github.com/gl0s3/M3103/raw/main/Конспекты/Линал/8_09_26.pdf) — 08.09.2026
+- [Линал_15_09_26.pdf](https://github.com/gl0s3/M3103/raw/main/Конспекты/Линал/15_09_26.pdf) — 15.09.2026
+- [Линал_22_09_26.pdf](https://github.com/gl0s3/M3103/raw/main/Конспекты/Линал/22_09_26.pdf) — 22.09.2026
 
 ### 📊 Алгоритмы и структуры данных
-- [Алгосы_лаба_12_09_26.pdf](https://github.com/USER/REPO/raw/main/Конспекты/Алгосы_лаба_12_09_26.pdf) — 12.09.2026
-- [Алгосы_лаба_19_09_26.pdf](https://github.com/USER/REPO/raw/main/Конспекты/Алгосы_лаба_19_09_26.pdf) — 19.09.2026
-
+- [Алгосы_лаба_12_09_26.pdf](https://github.com/gl0s3/M3103/raw/main/Конспекты/АиСД/12_09_26.pdf) — 12.09.2026
+- [Алгосы_лаба_19_09_26.pdf](https://github.com/gl0s3/M3103/raw/main/Конспекты/АиСД/19_09_26.pdf) — 19.09.2026
 
 ---
 
