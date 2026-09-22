@@ -5,6 +5,7 @@
 - [🏛️ Основные ресурсы ИТМО](#️-основные-ресурсы-итмо)
 - [📌 Полезная информация](#-полезная-информация)
 - [🎉 Мероприятия в ИТМО](#-мероприятия-в-итмо)
+- [⏰ Дедлайны](#-дедлайны)
 - [📅 Расписание пар (1 семестр, группа M3103)](#-расписание-пар-1-семестр-группа-m3103)
   - [Сводный календарь (чётная неделя)](#сводный-календарь-чётная-неделя)
   - [Сводный календарь (нечётная неделя)](#сводный-календарь-нечётная-неделя)
@@ -23,6 +24,7 @@
   - [📊 Алгоритмы и структуры данных](#-алгоритмы-и-структуры-данных)
 - [👥 Группа M3103 (студентов: 22)](#-группа-m3103-студентов-22)
 - [📞 Важные контакты / каналы / чаты](#-важные-контакты--каналы--чаты)
+- [📢 Официальные каналы ИТМО](#-официальные-каналы-итмо)
 
 ---
 
@@ -62,6 +64,15 @@
 
 ---
 
+## ⏰ Дедлайны
+
+| Дата | Предмет | Задание |
+|------|---------|---------|
+| — | — | — |  
+
+
+---
+
 ## 📅 Расписание пар (1 семестр, группа M3103)
 
 ### Сводный календарь (чётная неделя)
@@ -94,15 +105,14 @@
 ## 📚 Учебные материалы по предметам
 
 ### 🔢 Дискретная математика
-- [Презентации / курс](https://github.com/Lipen/discrete-math-course)
+- [Презентации / курс / книга](https://github.com/Lipen/discrete-math-course)
 
 ### 🖥️ ИСРПО (лекции + практики)
 - [Лабы + командный проект](https://sourcecraft.dev/software-development-tools/practice?rev=main)
 - [Форма для загрузки лабораторных работ](https://docs.google.com/forms/d/e/1FAIpQLSe6nBoj9wusZod6FFNtv9KKqzCUoqfQHOaWzIdI4F2nlj5rOw/viewform)
 
 ### 💻 Основы программирования (лекции + практики)
-- [Установка окружения](https://is-itmo-c-26.github.io/lectures/articles/01-setup.html)
-- [Репозиторий с лекциями](https://github.com/is-itmo-c-26/lectures)
+- [Лекции + видео + установка окружения](https://is-itmo-c-26.github.io/lectures/)
 - [Таблица с оценками](https://docs.google.com/spreadsheets/d/1RPnkkIYz1yWKvegiurVcmc-UIvRXBZZ7OqjRtw_gI9E/edit?gid=989910509#gid=989910509)
 
 #### 🎥 Консультации по Основам программирования
@@ -165,28 +175,28 @@
 
 | № | ФИО | Telegram | GitHub | ИСУ |
 |---|-----|----------|--------|-----|
-| 1 | Костенко Роман Игоревич | [@kostenkorrr](https://t.me/kostenkorrr) | [RomKostochka](https://github.com/RomKostochka) | 558120 |
-| 2 | Коцоев Руслан Тамерланович | [@kotss101](https://t.me/kotss101) | [kotsrr](https://github.com/kotsrr) | 558629 |
-| 3 | Кочетов Дмитрий Алексеевич | [@kochetov_dimA](https://t.me/kochetov_dimA) | [dimakoch-cmd](https://github.com/dimakoch-cmd) | 535509 |
-| 4 | Крестовников Марк Алексеевич | [@holy_ananas](https://t.me/holy_ananas) | [markkres](https://github.com/markkres) | 558980 |
-| 5 | Кузнецов Кирилл Владимирович | [@KirKuzya](https://t.me/KirKuzya) | [KirKuzya](https://github.com/KirKuzya) | 503414 |
-| 6 | Кузнецов Тимур Максимович | [@darknight_il](https://t.me/darknight_il) | [darknightil](https://github.com/darknightil) | 501659 |
-| 7 | Куликов Артемий Юрьевич | [@trivialbb](https://t.me/trivialbb) | [trivialbb](https://github.com/trivialbb) | 534169 |
-| 8 | Кунгуров Никита Александрович | [@iamkungugu](https://t.me/iamkungugu) | [kungugu](https://github.com/kungugu) | 558398 |
-| 9 | Купцов Матвей Алексеевич | [@Biomeh_1729](https://t.me/Biomeh_1729) | [BioMeh-1729](https://github.com/BioMeh-1729) | 445410 |
-| 10 | Куржавский Егор Николаевич | [@Spiny_nazar](https://t.me/Spiny_nazar) | [Kurzjha](https://github.com/Kurzjha) | 561303 |
-| 11 | Лазуткин Роман Алексеевич | [@per4k194](https://t.me/per4k194) | [qwonix-R](https://github.com/qwonix-R) | 559017 |
-| 12 | Латошкин Дмитрий Егорович | [@nameuniq](https://t.me/nameuniq) | [OverGG-1](https://github.com/OverGG-1) | 558486 |
-| 13 | Лютиков Роман Константинович | [@wopertac](https://t.me/wopertac) | [wopertac](https://github.com/wopertac) | 558763 |
-| 14 | Мажитов Гайсар Гаязович | [@Kaceq](https://t.me/Kaceq) | [Galses](https://github.com/Galses) | 558170 |
-| 15 | Максимов Кирилл Андреевич | [@Down_and_Down](https://t.me/Down_and_Down) | [HtoYia](https://github.com/HtoYia) | 557831 |
-| 16 | Мальцев Кирилл Артемович | [@KirMalcev](https://t.me/KirMalcev) | [KirillLegenda](https://github.com/KirillLegenda) | 561396 |
-| 17 | Марганов Савелий Ренатович | [@abcdefgh322](https://t.me/abcdefgh322) | [abcdefghomie](https://github.com/abcdefghomie) | 558727 |
-| 18 | Мартышин Андрей Михайлович | [@andreyka_0000](https://t.me/andreyka_0000) | [AndrewMartyshin](https://github.com/AndrewMartyshin) | 558443 |
-| 19 | Марудин Святослав Павлович | [@slavaboba](https://t.me/slavaboba) | [slavaboba](https://github.com/slavaboba) | 558437 |
-| 20 | Махенько Александр Евгеньевич | [@zorrius](https://t.me/zorrius) | [Zorro-Mamaev](https://github.com/Zorro-Mamaev) | 558356 |
-| 21 | Маятин Ярослав Александрович | [@CyberQigan](https://t.me/CyberQigan) | [LeastDepressedDev](https://github.com/LeastDepressedDev) | 561827 |
-| 22 | Михайлов Пётр Александрович | [@gl0s3](https://t.me/gl0s3) | [gl0s3](https://github.com/gl0s3) | 559040 |
+| 1 | Костенко Роман Игоревич | [@kostenkorrr](https://t.me/kostenkorrr) | [RomKostochka](https://github.com/RomKostochka) | [558120](https://isu.ifmo.ru/person/558120) |
+| 2 | Коцоев Руслан Тамерланович | [@kotss101](https://t.me/kotss101) | [kotsrr](https://github.com/kotsrr) | [558629](https://isu.ifmo.ru/person/558629) |
+| 3 | Кочетов Дмитрий Алексеевич | [@kochetov_dimA](https://t.me/kochetov_dimA) | [dimakoch-cmd](https://github.com/dimakoch-cmd) | [535509](https://isu.ifmo.ru/person/535509) |
+| 4 | Крестовников Марк Алексеевич | [@holy_ananas](https://t.me/holy_ananas) | [markkres](https://github.com/markkres) | [558980](https://isu.ifmo.ru/person/558980) |
+| 5 | Кузнецов Кирилл Владимирович | [@KirKuzya](https://t.me/KirKuzya) | [KirKuzya](https://github.com/KirKuzya) | [503414](https://isu.ifmo.ru/person/503414) |
+| 6 | Кузнецов Тимур Максимович | [@darknight_il](https://t.me/darknight_il) | [darknightil](https://github.com/darknightil) | [501659](https://isu.ifmo.ru/person/501659) |
+| 7 | Куликов Артемий Юрьевич | [@trivialbb](https://t.me/trivialbb) | [trivialbb](https://github.com/trivialbb) | [534169](https://isu.ifmo.ru/person/534169) |
+| 8 | Кунгуров Никита Александрович | [@iamkungugu](https://t.me/iamkungugu) | [kungugu](https://github.com/kungugu) | [558398](https://isu.ifmo.ru/person/558398) |
+| 9 | Купцов Матвей Алексеевич | [@Biomeh_1729](https://t.me/Biomeh_1729) | [BioMeh-1729](https://github.com/BioMeh-1729) | [445410](https://isu.ifmo.ru/person/445410) |
+| 10 | Куржавский Егор Николаевич | [@Spiny_nazar](https://t.me/Spiny_nazar) | [Kurzjha](https://github.com/Kurzjha) | [561303](https://isu.ifmo.ru/person/561303) |
+| 11 | Лазуткин Роман Алексеевич | [@per4k194](https://t.me/per4k194) | [qwonix-R](https://github.com/qwonix-R) | [559017](https://isu.ifmo.ru/person/559017) |
+| 12 | Латошкин Дмитрий Егорович | [@nameuniq](https://t.me/nameuniq) | [OverGG-1](https://github.com/OverGG-1) | [558486](https://isu.ifmo.ru/person/558486) |
+| 13 | Лютиков Роман Константинович | [@wopertac](https://t.me/wopertac) | [wopertac](https://github.com/wopertac) | [558763](https://isu.ifmo.ru/person/558763) |
+| 14 | Мажитов Гайсар Гаязович | [@Kaceq](https://t.me/Kaceq) | [Galses](https://github.com/Galses) | [558170](https://isu.ifmo.ru/person/558170) |
+| 15 | Максимов Кирилл Андреевич | [@Down_and_Down](https://t.me/Down_and_Down) | [HtoYia](https://github.com/HtoYia) | [557831](https://isu.ifmo.ru/person/557831) |
+| 16 | Мальцев Кирилл Артемович | [@KirMalcev](https://t.me/KirMalcev) | [KirillLegenda](https://github.com/KirillLegenda) | [561396](https://isu.ifmo.ru/person/561396) |
+| 17 | Марганов Савелий Ренатович | [@abcdefgh322](https://t.me/abcdefgh322) | [abcdefghomie](https://github.com/abcdefghomie) | [558727](https://isu.ifmo.ru/person/558727) |
+| 18 | Мартышин Андрей Михайлович | [@andreyka_0000](https://t.me/andreyka_0000) | [AndrewMartyshin](https://github.com/AndrewMartyshin) | [558443](https://isu.ifmo.ru/person/558443) |
+| 19 | Марудин Святослав Павлович | [@slavaboba](https://t.me/slavaboba) | [slavaboba](https://github.com/slavaboba) | [558437](https://isu.ifmo.ru/person/558437) |
+| 20 | Махенько Александр Евгеньевич | [@zorrius](https://t.me/zorrius) | [Zorro-Mamaev](https://github.com/Zorro-Mamaev) | [558356](https://isu.ifmo.ru/person/558356) |
+| 21 | Маятин Ярослав Александрович | [@CyberQigan](https://t.me/CyberQigan) | [LeastDepressedDev](https://github.com/LeastDepressedDev) | [561827](https://isu.ifmo.ru/person/561827) |
+| 22 | Михайлов Пётр Александрович | [@gl0s3](https://t.me/gl0s3) | [gl0s3](https://github.com/gl0s3) | [559040](https://isu.ifmo.ru/person/559040) |
 
 ---
 
@@ -202,5 +212,19 @@
 | ☎️ Телефон | +7 (812) 480-90-00 |
 | 📍 Офлайн | Кронверкский пр., д. 49, ауд. 1106 / ул. Ломоносова, д. 9, ауд. 1400 |
 | 🕘 Часы работы | Пн–Пт, 9:00–19:00 |
+
+
+## 📢 Официальные каналы ИТМО
+
+| Канал | Ссылка | Описание |
+|-------|--------|----------|
+| Вселенная ИТМО | [@itmo_uni](https://t.me/itmo_uni) | Неофициальный студенческий канал с мемами и новостями |
+| Официальный канал ИТМО | [@itmo_ru](https://t.me/itmo_ru) | Официальные новости университета |
+| ИТМОЛния | [@itmolnia](https://t.me/itmolnia) | Студенческий офис ИТМО |
+| ФИТиП ИТМО | [@fitp_itmo](https://t.me/fitp_itmo) | Официальный канал факультета ФИТиП |
+| ИТМО СТУДЕНТС | [@itmo_students](https://t.me/itmo_students) | Студенческое сообщество ИТМО |
+| ITMO Events | [@itmo_events](https://t.me/itmo_events) | Анонсы мероприятий ИТМО |
+| ITMO.NEWS | [@itmo_news](https://t.me/itmo_news) | Новостной канал ИТМО |
+| ITMO English | [@itmo_english](https://t.me/itmo_english) | Англоязычный канал ИТМО |
 
 ---
