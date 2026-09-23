@@ -130,6 +130,7 @@
 ### 📊 АиСД и ДМ
 - [Сайт YONOTE по АиСД и ДМ](https://dm-aisd.yonote.ru/share/itmo_dm_aisd)
 - [Сайт с лабами по АиСД](https://sort-me.org/)
+- [Конспекты по АиСД](https://disk.yandex.ru/d/oE4qkj6LUn6TBw)
 
 ---
 
